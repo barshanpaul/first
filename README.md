@@ -1,1 +1,1 @@
-Invalid Repository
+This is an arduin progra to operate a device that detects if any person is present in the room.If the  result is positive then the electricals will be turned on and if no one is present the lights and fan will be turned off.
